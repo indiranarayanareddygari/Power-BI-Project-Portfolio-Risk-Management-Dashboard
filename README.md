@@ -111,3 +111,5 @@ Report Design Best Practices
 **Data Analyst | Power BI Developer | SQL & Excel Specialist | Python Enthusiast**
 
 ## 📸 Screenshot ![Dashboard](https://github.com/user-attachments/assets/96f62c3f-22af-4d17-a8b5-4235e620a8df)
+
+## Dashboard Link :  https://app.powerbi.com/groups/me/reports/c63c699e-df9e-4bc4-825c-c4d99e7cfcba/b6b3137756f8233292be?experience=power-bi
